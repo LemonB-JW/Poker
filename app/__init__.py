@@ -47,7 +47,7 @@ def on_join(data):
 # def on_push(data):
 #     msg = data['msg']
 #     send(msg, room=room)
-#     print(msg)
+#      print(msg)
 
 
 if __name__ == '__main__':
